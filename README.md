@@ -181,11 +181,11 @@ The generated blueprint JSON is injected into the system prompt as authoritative
 ### 2. Features Section — What FoundrIQ Delivers
 ![FoundrIQ features](docs/screenshots/02-features.png)
 
-### 3. How It Works — 3-Step Founder Journey
-![FoundrIQ how it works](docs/screenshots/03-how-it-works.png)
-
-### 4. Authentication — Sign Up & Sign In
+### 3. Authentication — Sign Up & Sign In
 ![FoundrIQ auth](docs/screenshots/04-auth.png)
+
+### 4. Dashboard
+![FoundrIQ dashboard]("C:\Users\athar_39160nn\Downloads\04-Dashboard.png")
 
 > All screenshots captured from the live production deployment at [foundr-iq.vercel.app](https://foundr-iq.vercel.app/).
 
