@@ -259,6 +259,7 @@ flowchart TB
     SF2 -- HTTPS + API key --> G
 ```
 
+
 **Design decisions:**
 - **Local-first persistence** for reports/history/profile (localStorage) → zero backend cost, instant reads, offline-friendly.
 - **Server-only Gemini calls** → API key never leaks to the client.
